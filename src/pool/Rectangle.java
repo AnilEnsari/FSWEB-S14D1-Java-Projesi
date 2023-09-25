@@ -1,3 +1,5 @@
+package pool;
+
 public class Rectangle {
 
     private double width ;
